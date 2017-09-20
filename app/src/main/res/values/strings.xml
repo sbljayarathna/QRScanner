@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+
+    <string name="msg_request_permission_camera">You need to allow camera permission to enjoy our benefits</string>
+</resources>
